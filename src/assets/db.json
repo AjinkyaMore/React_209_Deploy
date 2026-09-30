@@ -1,0 +1,69 @@
+{
+  "students": [
+    {
+      "sname": "Jay",
+      "email": "jay@gmail.com",
+      "password": "vijay@123",
+      "dob": "2001-02-10",
+      "contact": "9768906547",
+      "batch": "B102",
+      "fees": "25000",
+      "gender": "male",
+      "courses": [
+        "java",
+        "spring",
+        "react"
+      ],
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/5310/5310725.png",
+      "address": {
+        "pincode": "456789",
+        "area": "Kothrud",
+        "city": "Pune"
+      },
+      "id": "9a98"
+    },
+    {
+      "sname": "Sagar",
+      "email": "Sagar12@gmail.com",
+      "password": "jay@123",
+      "dob": "2001-02-15",
+      "contact": "9765432190",
+      "batch": "B105",
+      "fees": "15000",
+      "gender": "male",
+      "courses": [
+        "java",
+        "spring",
+        "react"
+      ],
+      "imageUrl": "https://rcabegusarai.in/Assets/images/dummy.png",
+      "address": {
+        "pincode": "435679",
+        "area": "Kothrud",
+        "city": "Pune"
+      },
+      "id": "b70f"
+    },
+    {
+      "sname": "Rahul",
+      "email": "rahul@gmail.com",
+      "password": "rahul@1234",
+      "dob": "2005-02-01",
+      "contact": "9543217950",
+      "batch": "B105",
+      "fees": "20000",
+      "gender": "male",
+      "courses": [
+        "java",
+        "react"
+      ],
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7gjJh9imy8DQ2ZX1EgVP5_fatPjO37Xy0-78zVPCzGSn5HBONbWN_EHCW&s=10",
+      "address": {
+        "pincode": "765432",
+        "area": "Warje",
+        "city": "Pune"
+      },
+      "id": "982b"
+    }
+  ]
+}
